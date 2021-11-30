@@ -31,4 +31,5 @@ function calculator(input) {
         }
     })
     console.log(stack)
+    return stack
 }
